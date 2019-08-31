@@ -1,0 +1,18 @@
+## Index of source code examples:
+
+\Compare PDF Documents with PDF Extractor SDK
+\Convert Protected PDF Document to Excel (C++ CLR) with PDF Extractor SDK
+\Create simple spreadsheet with spreadsheet sdk
+\Create simple spreasdsheet with spreadsheet sdk
+\Extract PDF Pages with PDF Extractor SDK
+\Extract Text from PDF with PDF Extractor SDK
+\Find Table And Extract As CSV from PDF with PDF Extractor SDK
+\General example reading barcode with barcode reader sdk
+\Merge PDF Documents with PDF Extractor SDK
+\Merge Protected PDF Documents (C++ CLR) with PDF Extractor SDK
+\PDF and OCR (Optical Character Recognition) with PDF Extractor SDK
+\Read barcode from image with barcode reader sdk
+\Read barcode from memory with barcode reader sdk
+\Set image preprocessing filters with barcode reader sdk
+\Split PDF Document with PDF Extractor SDK
+\Split Protected PDF Document (C++ CLR) with PDF Extractor SDK
